@@ -1,13 +1,13 @@
 # tubesPBO
 
-Repositori ini berisi kode untuk proyek **tubesPBO** yang dibuat menggunakan bahasa **Java**. Proyek ini dirancang untuk **[deskripsi proyek, misalnya, aplikasi, tugas kuliah, dll.]**.
+This repository contains the code for the **tubesPBO** project, which is created using **Java**. This project is a simple application for **land tax payment**.
 
-## 🚀 Cara Menggunakan Proyek Ini
+## 🚀 How to Use This Project
 
-Untuk mempermudah penggunaan proyek ini, berikut adalah langkah-langkah untuk menginstal dan menjalankan kode tanpa perlu mengunduh satu per satu file.
+To simplify the usage of this project, here are the steps to install and run the code without needing to download each file individually.
 
-### 1️⃣ Clone Repositori
-Langkah pertama adalah mengunduh semua file proyek ini dengan cara **clone** repositori menggunakan **Git**. Buka terminal atau command prompt, lalu jalankan perintah berikut:
+### 1️⃣ Clone the Repository
+The first step is to download all the project files by **cloning** the repository using **Git**. Open your terminal or command prompt, then run the following command:
 
 ```bash
-git clone https://github.com/username/tubesPBO.git
+git clone https://github.com/muzammifahmi/tubesPBO.git
